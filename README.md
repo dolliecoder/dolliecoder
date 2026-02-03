@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Dolly 👋
 
-<!--
-**dolliecoder/dolliecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer & open source contributor  
+Based in Bangalore, learning by building and contributing to real-world production codebases.
 
-Here are some ideas to get you started:
+I enjoy debugging complex issues, improving existing systems, and writing clean, reliable code that helps communities and developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Open Source Contributions
+
+### AOSSIE
+- Contributor to Devr.AI
+- Backend fixes, authentication/verification improvements, and stability enhancements
+
+### Wagtail Ecosystem
+- Contributor to wagtail (core)
+- wagtail-factories
+- wagtail-localize
+- Tests, bug fixes, and developer tooling improvements
+
+I focus on thoughtful problem solving, well-scoped pull requests, and maintainable code.
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- JavaScript
+- React
+- Git & GitHub
+- REST APIs
+- Testing & debugging
+
+---
+
+## 🎯 Goals
+
+- Contribute consistently to open source
+- Strengthen backend engineering skills
+- Improve system design and testing practices
+- Collaborate on impactful community projects
+
+---
+
+## 📫 Profile
+
+Explore my work and contributions here:  
+👉 https://github.com/dolliecoder
