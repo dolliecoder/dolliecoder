@@ -11,3 +11,6 @@ Learning by contributing to real-world production codebases and improving system
 
 💻 Python-focused developer exploring backend systems
 🌍 Open source contributor  
+🔎 I enjoy debugging complex issues and improving production systems  
+📚 Currently learning system design, backend architecture, and testing  
+📍 Based in Bangalore 
