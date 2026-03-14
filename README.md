@@ -10,3 +10,4 @@ Learning by contributing to real-world production codebases and improving system
 ## 🚀 About Me
 
 💻 Python-focused developer exploring backend systems
+🌍 Open source contributor  
