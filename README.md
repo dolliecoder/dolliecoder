@@ -16,17 +16,3 @@ I enjoy debugging complex issues, improving existing systems, and writing clean,
 - Testing & debugging
 
 ---
-
-## 🎯 Goals
-
-- Contribute consistently to open source
-- Strengthen backend engineering skills
-- Improve system design and testing practices
-- Collaborate on impactful community projects
-
----
-
-## 📫 Profile
-
-Explore my work and contributions here:  
-👉 https://github.com/dolliecoder
